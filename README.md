@@ -1,0 +1,2 @@
+# amplifyapp
+ampl demo
